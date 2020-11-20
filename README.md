@@ -6,7 +6,7 @@
 ## 安全学习笔记
 
 ### 常见漏洞攻防技术
-> * [SQL注入](/sec-learning-notes/vul/sql)
+> * [SQL注入](/vul/sql/)
 
 ## 安全知识库
 
