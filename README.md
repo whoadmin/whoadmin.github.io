@@ -1,6 +1,6 @@
-# 李笑来作品集
+# 安全老鸟
 
-—— 人生的尴尬在于之前决策的时候并不可能有之后那么丰富的经验……
+—— 如果你还能做梦, 你就能实现它……
 
 ## 文字作品
 
@@ -27,27 +27,4 @@
 > * [区块链小白书](https://blockchainlittlebook.com)
 > * [如何自助 —— 助人即助己 —— 重大病毒性疫情中如何应对创伤应激障碍](https://github.com/xiaolai/help-to-be-helped)
 > * [微信互联网平民创业](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network)
-
-## 投资项目
-
-> * [Inblockchain](https://inblockchain.com)
-> * [龙门基金](https://longmen.fund)
-> * [BigOne](https://big.one)
-> * [BTCmex](https://www.btcmex.com)
-> * [币印](https://poolin.com)
-> * [SIA](https://sia.tech/)
-> * [MOB](https://www.mobilecoin.com/)
-> * [Mixin Network](https://mixin.one/)
-> * [FoxOne](https://fox.one)
-> * [b.watch](https://b.watch)
-> * [xue.cn](https://xue.cn)
-
-## 微信视频号“笑来”中的往期内容
-
-请在微信中搜索并关注微信视频号：“笑来”，或直接微信识别以下二维码关注……
-
-
-**识别以下二维码查看往期视频号内容精选……**
-
-![](vqqchannel.png)
 
