@@ -1,1 +1,0 @@
-# INBlockchain ICO Investing Principles
