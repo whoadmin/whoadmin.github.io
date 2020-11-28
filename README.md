@@ -14,6 +14,7 @@
 > * [SSRF漏洞](/source/vuln/ssrf/)
 > * [命令注入漏洞](/source/vuln/cmd/)
 > * [目录穿越漏洞](/source/vuln/pathtraversal/)
+> * [敏感信息读取](/source/vuln/fileread/)
 > * [Xpath注入漏洞](/source/vuln/xpath/)
 > * [安全配置及信息泄露](/source/vuln/config/)
 
