@@ -7,6 +7,9 @@
 ### 常见漏洞攻防技术
 
 > * [SQL注入](/source/vuln/sql/)
+> * [XSS漏洞](/source/vuln/xss/)
+>> * [同源策略](/source/vuln/cors/)
+>> * [CSP](/source/vuln/csp/)
 > * [Xpath注入漏洞](/source/vuln/xpath/)
 > * [安全配置及信息泄露](/source/vuln/config/)
 
