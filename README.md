@@ -4,7 +4,7 @@
 
 ## 安全学习笔记
 
-### 常见漏洞攻防技术
+### 红蓝攻防技术
 
 > * [SQL注入](/source/vuln/sql/)
 > * [XSS漏洞](/source/vuln/xss/)
