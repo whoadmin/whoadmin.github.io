@@ -11,6 +11,7 @@
 >> * [同源策略](/source/vuln/cors/)
 >> * [CSP](/source/vuln/csp/)
 > * [CSRF漏洞](/source/vuln/csrf/)
+> * [SSRF漏洞](/source/vuln/ssrf/)
 > * [Xpath注入漏洞](/source/vuln/xpath/)
 > * [安全配置及信息泄露](/source/vuln/config/)
 
