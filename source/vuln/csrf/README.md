@@ -38,6 +38,6 @@ XMLHttpRequest可能是最少看到的方式，由于许多现代Web应用程序
 
 ## 参考链接
 
-- `demo <https://www.github.com/jrozner/csrf-demo>`_
-- `Wiping Out CSRF <https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f>`_
-- `Neat tricks to bypass CSRF protection <https://www.slideshare.net/0ang3el/neat-tricks-to-bypass-csrfprotection>`_
+- [demo](https://www.github.com/jrozner/csrf-demo)
+- [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f)
+- [Neat tricks to bypass CSRF protection](https://www.slideshare.net/0ang3el/neat-tricks-to-bypass-csrfprotection)
