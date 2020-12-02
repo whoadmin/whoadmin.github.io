@@ -166,9 +166,9 @@ SSRF涉及到的危险函数主要是网络访问，支持伪协议的网络读�
 
 ## 参考链接
 
-- `SSRF漏洞分析与利用 <http://www.91ri.org/17111.html>`_
-- `A New Era Of SSRF <https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf>`_
-- `php ssrf technique <https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51>`_
-- `谈一谈如何在Python开发中拒绝SSRF漏洞 <https://www.leavesongs.com/PYTHON/defend-ssrf-vulnerable-in-python.html>`_
-- `SSRF Tips <http://blog.safebuff.com/2016/07/03/SSRF-Tips/>`_
-- `SSRF in PHP <https://joychou.org/web/phpssrf.html>`_
+- [SSRF漏洞分析与利用](http://www.91ri.org/17111.html)
+- [A New Era Of SSRF](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
+- [php ssrf technique](https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51)
+- [谈一谈如何在Python开发中拒绝SSRF漏洞](https://www.leavesongs.com/PYTHON/defend-ssrf-vulnerable-in-python.html)
+- [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/)
+- [SSRF in PHP](https://joychou.org/web/phpssrf.html)
