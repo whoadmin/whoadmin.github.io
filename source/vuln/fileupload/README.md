@@ -110,4 +110,4 @@ Apache可根据是否允许重定向考虑上传.htaccess
 
 ## 参考链接
 
-- `构造优质上传漏洞Fuzz字典 <https://www.freebuf.com/articles/web/188464.html>`_
+- [构造优质上传漏洞Fuzz字典] (https://www.freebuf.com/articles/web/188464.html)

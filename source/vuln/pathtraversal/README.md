@@ -43,7 +43,7 @@
 
 ## 参考链接
 
-- `Directory traversal by portswigger <https://portswigger.net/web-security/file-path-traversal>`_
-- `Path Traversal by OWASP <https://www.owasp.org/index.php/Path_Traversal>`_
-- `path normalization <https://blogs.msdn.microsoft.com/jeremykuhne/2016/04/21/path-normalization/>`_
-- `Breaking Parser Logic: Take Your Path Normalization Off and Pop 0days Out defcon <https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf>`_
+- [Directory traversal by portswigger](https://portswigger.net/web-security/file-path-traversal)
+- [Path Traversal by OWASP](https://www.owasp.org/index.php/Path_Traversal)
+- [path normalization](https://blogs.msdn.microsoft.com/jeremykuhne/2016/04/21/path-normalization/)
+- [Breaking Parser Logic: Take Your Path Normalization Off and Pop 0days Out defcon](https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf)
