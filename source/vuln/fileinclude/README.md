@@ -26,6 +26,23 @@
 
 能够读取或执行包含远程服务器的文件及资源, 利用针对的是`http`、`ftp`等协议
 
+```python
+import urllib.request
+import sys
+import types
+
+def load_module(url):
+    # url参数用户可控导致python远程文件包含
+    u = urllib.request.urlopen(url)
+    source = u.read().decode('utf-8')
+    mod = sys.modules.setdefault(url, types.ModuleType(url))
+    code = compile(source, url, 'exec')
+    mod.__file__ = url
+    mod.__package__ = ''
+    exec(code, mod.__dict__)
+    return mod
+```
+
 ### 前置条件
 
 需要在php.ini配置
