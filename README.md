@@ -16,6 +16,7 @@
 > * [目录穿越漏洞](/source/vuln/pathtraversal/)
 > * [敏感信息读取](/source/vuln/fileread/)
 > * [文件上传漏洞](/source/vuln/fileupload/)
+> * [文件包含漏洞 `LFI/RFI`](/source/vuln/fileinclude/)
 > * [Xpath注入漏洞](/source/vuln/xpath/)
 > * [安全配置及信息泄露](/source/vuln/config/)
 
