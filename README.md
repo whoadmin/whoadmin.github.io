@@ -18,6 +18,7 @@
 > * [文件上传漏洞](/source/vuln/fileupload/)
 > * [文件包含漏洞(LFI/RFI)](/source/vuln/fileinclude/)
 > * [XXE(XML外部实体引用)](/source/vuln/xxe/)
+> * [业务逻辑漏洞](/source/vuln/logic/)
 > * [Xpath注入漏洞](/source/vuln/xpath/)
 > * [安全配置及信息泄露](/source/vuln/config/)
 
