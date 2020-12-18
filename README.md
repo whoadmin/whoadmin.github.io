@@ -19,6 +19,7 @@
 > * [文件包含漏洞(LFI/RFI)](/source/vuln/fileinclude/)
 > * [XXE(XML外部实体引用)](/source/vuln/xxe/)
 > * [业务逻辑漏洞](/source/vuln/logic/)
+> * [不安全的反序列化](/source/vuln/deserialization/)
 > * [Xpath注入漏洞](/source/vuln/xpath/)
 > * [安全配置及信息泄露](/source/vuln/config/)
 
