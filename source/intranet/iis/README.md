@@ -15,19 +15,19 @@ IIS的应用程序池用于隔离部署在同一个服务器上的托管用户�
 
 ### 标识
 配置应用程序池以作为内置账户或特定的用户标识运行，内置账户 LocalService、LocalSystem、NetworkService、ApplicationPoolIdentity。在进程模型中的标识中选择LocalSystem, 也可以创建或使用特定的高权账号。
-![avatar](/source/intranet/iis/iis1.jpg)
+![avatar](./iis1.jpg)
 
 
 ### .Net Level
 配置web site的信任级别，信任级别 Full、High、Medium、Low、Minimal，这里配置为Full。(注意: 如果信任级别太低会导致权限配置失败，且webshell的权限被收紧)
 
 在 `C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Config\web.config` 可配置全局的 `trust level`。
-![avatar](/source/intranet/iis/iis2.png)
+![avatar](./iis2.png)
 
 
 ### 内嵌型webshell
 配置完成应用程序池，在针对性的对网站中的某个apsx文件嵌入较为隐蔽的后门代码，这样就可以减少被检测发现的可能(一般的webshell检测工具检测不到)，由于是嵌入到正常业务代码中去所以要检测出问题需要对比md5才可以。这里为了简化操作就使用正常的大马来观察配置情况。
-![avatar](/source/intranet/iis/iis3.png)
+![avatar](./iis3.png)
 
 
 ### 清除痕迹
