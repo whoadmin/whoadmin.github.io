@@ -125,6 +125,7 @@ public class SerClassTest implements Serializable {
 
 
 ## 参考
+
 - [玩转Ysoserial-CommonsCollection的七种利用方式分析](https://www.freebuf.com/articles/web/214096.html)
 - [fastjson漏洞](https://paper.seebug.org/1343/)
 - [反序列化漏洞原理](https://xz.aliyun.com/t/6787)
