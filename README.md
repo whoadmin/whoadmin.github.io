@@ -4,7 +4,7 @@
 
 # 红蓝攻防技术
 
-## 常见漏洞
+## 常见漏洞 (owasp top 10/cwe top 25)
 
 > * [SQL注入](/source/vuln/sql/)
 > * [XSS漏洞](/source/vuln/xss/)
