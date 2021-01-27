@@ -3,6 +3,10 @@
 
 存在敏感信息的文件、安装包、备份文件
 
+- github
+    - 源代码以及配置上传到github
+    - 云平台aksk
+
 - 用户目录下的敏感文件
     - .bash_history
     - .zsh_history
@@ -29,6 +33,8 @@
     - .db
     - .properties
     - .json
+    - .conf
+    - Index off
 
 - 特殊的备份文件
     - .swp
